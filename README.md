@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# [React Components 분리하기 연습]
+![image](https://github.com/tjdsksro90/components-example/assets/74041149/8893d80b-18d2-4332-9473-fa381df94cad)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
